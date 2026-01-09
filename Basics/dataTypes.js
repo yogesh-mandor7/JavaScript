@@ -44,3 +44,5 @@ console.log(person);
 console.log(typeof undefined); // undefined
 
 
+
+
